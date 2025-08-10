@@ -1,0 +1,1 @@
+Tracking of events with timestamp split into hour, minute and second. I have provided a link to a GTM container in GitHub that will provide the timestamp variable which is set-up as an event parameter and the set-up of the tags to get the required data in Big Query 
